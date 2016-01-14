@@ -3,20 +3,19 @@ Berneout Public Deed
 Copyright <year> <owner>
 
 This document grants you no rights to use the accompanying material
-unless you accept the following assignment of undivided copyright
-ownership from the copyright owner named above.
+unless you accept the following terms.
 
-1. On your acceptance, the copyright owner named above hereby assigns
-   you joint copyright ownership in this material.
+1. On your acceptance, the copyright owner named above assigns you an
+   undivided copyright ownership interst in this material.
 
-2. Your joint ownership will automatically revert to the copyright owner
-   named above if you ever sue or threaten to sue anyone for infringement
-   of copyright in these materials.
+2. Your ownership interst will automatically revert to the copyright
+   owner named above if you ever sue or threaten to sue anyone for
+   infringement of copyright in these materials.
 
-3. You agree that no joint owner of copyright in this material will
-   consult, get consent from, pay, or account to any other joint owner.
+3. You agree that no joint owner of copyright in this material need
+   consult, get any consent from, pay, or account to any other owner.
 
-4. You may not assign joint ownership in this material to anyone else,
-   unless they agree to points 2, 3, and this point 4, as well.
+4. You may not assign joint ownership in this material to anyone else
+   unless they agree to points 2, 3, and this point 4.
 
 /s/ <owner>
