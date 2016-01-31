@@ -1,4 +1,4 @@
-Berneout Public Deed 1e1d
+Berneout Public Deed 1e2d
 
 <material>
 
@@ -19,7 +19,7 @@ copyright assignment and related terms.
 
 3. You agree that no past, present, or future co-owner of copyright
    in the material identified above need consult, get any consent from,
-   pay, or account to any other past, present, or future co-owner.
+   pay, or account to any other co-owner.
 
 4. You may not assign any co-ownership interest in the material
    identified above to anyone else, unless they agree to section 2,
